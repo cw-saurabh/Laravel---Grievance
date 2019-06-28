@@ -1,0 +1,1 @@
+<h2> The password for your Grievance System is {{$pw}}</h2>
